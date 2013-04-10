@@ -1,2 +1,9 @@
 fred line 1
 fred line 2
+How about Fred Flinstone?
+Or just a freddish morning
+...Or evening?
+A line not matching ex4
+LINE not matching ex4
+What about wilma and fred?
+...and fred with wilma?
