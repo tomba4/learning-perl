@@ -7,3 +7,7 @@ A line not matching ex4
 LINE not matching ex4
 What about wilma and fred?
 ...and fred with wilma?
+I saw Wilma yesterday
+Wilma
+a line with a white space at the end 
+the last line
