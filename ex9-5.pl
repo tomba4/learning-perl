@@ -13,6 +13,7 @@ while(<>) {
   if(/\#\# Copyright/) {
     $files_found{$ARGV} = 1;
   }
+  print;
 }
 
 @ARGV = @OLD_ARGV;
