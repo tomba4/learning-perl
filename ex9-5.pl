@@ -19,6 +19,7 @@ while(<>) {
 
 while(<>) {
   if(exists $files_found{$ARGV}) {
+    print;
     next;
   }
 
