@@ -2,3 +2,4 @@ just a file
 with fred words
 and maybe Manfred too
 or just pure Fred
+and fred&wilma too
