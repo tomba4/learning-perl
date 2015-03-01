@@ -1,4 +1,6 @@
 #!/usr/bin/perl
+## Copyright (C) 2015 Yours Truly
+
 use 5.010;
 use strict;
 
