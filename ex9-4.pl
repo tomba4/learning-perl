@@ -14,7 +14,6 @@ while(<>) {
   $files{$ARGV} = 1;
 
   if(/#!/) {
-    say "Shabang found";
     s/(.*)/$1\n\#\# Copyright \(C\) 2015 Yours Truly\n/;
     print;
   } else { next }
